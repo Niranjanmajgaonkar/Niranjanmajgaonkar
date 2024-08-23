@@ -5,7 +5,7 @@
 📫 How to reach me
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/niranjan-majgaonkar-636328268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" style="text-decoration: none; margin-right: 35px;">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 150px; height: 30px;">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 150px; height: 30px;margin-right: 35px;">
 </a>
 <a href="https://x.com/NiranjanMajgao1" target="_blank" style="text-decoration: none; margin-right: 35px;">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X" style="width: 100px; height: 30px;">
