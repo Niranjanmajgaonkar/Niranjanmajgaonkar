@@ -3,21 +3,36 @@
 🌱 I’m currently learning Web Development and exploring Full Stack Development 💞️  
 🛠️ I work with both front-end and back-end technologies to build complete solutions  
 📫 How to reach me
+<style>
+    .social-link {
+        text-decoration: none;
+        margin-right: 35px;
+    }
+    .social-img {
+        width: 150px; 
+        height: 30px;
+    }
+    .social-img-small {
+        width: 100px; 
+        height: 30px;
+    }
+</style>
+
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/niranjan-majgaonkar-636328268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" style="text-decoration: none; margin-right: 35px;">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 150px; height: 30px;margin-right: 35px;">
+<a href="https://www.linkedin.com/in/niranjan-majgaonkar-636328268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" class="social-link">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" class="social-img">
 </a>
-<a href="https://x.com/NiranjanMajgao1" target="_blank" style="text-decoration: none; margin-right: 35px;">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X" style="width: 100px; height: 30px;">
+<a href="https://x.com/NiranjanMajgao1" target="_blank" class="social-link">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X" class="social-img-small">
 </a>
-<a href="https://www.instagram.com/niranjan_majgaonkar/?utm_source=qr&igsh=MXZnMXAwdGV6YmQ0Zw%3D%3D" target="_blank" style="text-decoration: none; margin-right: 35px;">
-    <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white" alt="Instagram" style="width: 150px; height: 30px;">
+<a href="https://www.instagram.com/niranjan_majgaonkar/?utm_source=qr&igsh=MXZnMXAwdGV6YmQ0Zw%3D%3D" target="_blank" class="social-link">
+    <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white" alt="Instagram" class="social-img">
 </a>
-<a href="https://www.facebook.com/niranjan.majgaonkar.52?mibextid=qi2Omg&rdid=WhBufQNnlu9QbdeH&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FqoJoFBsscAq5QXJe%2F%3Fmibextid%3Dqi2Omg" target="_blank" style="text-decoration: none; margin-right: 35px;">
-    <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white" alt="Facebook" style="width: 150px; height: 30px;">
+<a href="https://www.facebook.com/niranjan.majgaonkar.52?mibextid=qi2Omg&rdid=WhBufQNnlu9QbdeH&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FqoJoFBsscAq5QXJe%2F%3Fmibextid%3Dqi2Omg" target="_blank" class="social-link">
+    <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white" alt="Facebook" class="social-img">
 </a>
-<a href="https://github.com/Niranjanmajgaonkar" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="width: 150px; height: 30px;">
+<a href="https://github.com/Niranjanmajgaonkar" target="_blank" class="social-link">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" class="social-img">
 </a>
 
 
