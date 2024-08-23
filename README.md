@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @YashJunagade<br>👀 I’m interested in Software Development<br>🌱 I’m currently learning Web Development<br>💞️ I’m looking to collaborate on ...<br>📫 How to reach me
+👋 Hi, I’m @Niranjanmajgaonkar<br>👀<br>🌱 I’m currently learning Web Development<br>💞️ <br>📫 How to reach me
 
 
 ## 🌐 Socials:
