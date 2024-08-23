@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Niranjanmajgaonkar<br>👀<br>🌱 I’m currently learning Web Development<br>💞️ <br>📫 How to reach me
+👋 Hi, I’m @Niranjanmajgaonkar👀<br>🌱 I’m currently learning Web Development💞️ <br>📫 How to reach me
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/niranjan-majgaonkar-636328268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" style="text-decoration: none; margin-right: 15px;">
