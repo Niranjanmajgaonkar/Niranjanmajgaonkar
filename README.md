@@ -2,15 +2,16 @@
 👋 Hi, I’m @Niranjanmajgaonkar<br>👀<br>🌱 I’m currently learning Web Development<br>💞️ <br>📫 How to reach me
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/niranjan-majgaonkar-636328268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" style="font-size: 24px; text-decoration: none; color: #0077b5;">
-    <img src="https://img.shields.io/badge/LinkedIn-Niranjan%20Majgaonkar-blue?logo=linkedin" alt="LinkedIn" style="width: 40px; height: 40px; vertical-align: middle;">
+<a href="https://www.linkedin.com/in/niranjan-majgaonkar-636328268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" style="text-decoration: none; margin-right: 15px;">
+    <img src="https://img.shields.io/badge/LinkedIn-Niranjan%20Majgaonkar-blue?logo=linkedin" alt="LinkedIn" style="width: 50px; height: 50px;">
 </a>
-<a href="https://www.instagram.com/niranjan_majgaonkar/?utm_source=qr&igsh=MXZnMXAwdGV6YmQ0Zw%3D%3D" target="_blank" style="font-size: 24px; text-decoration: none; color: #E4405F;">
-    <img src="https://img.shields.io/badge/Instagram-niranjan_majgaonkar-purple?logo=instagram" alt="Instagram" style="width: 40px; height: 40px; vertical-align: middle;">
+<a href="https://www.instagram.com/niranjan_majgaonkar/?utm_source=qr&igsh=MXZnMXAwdGV6YmQ0Zw%3D%3D" target="_blank" style="text-decoration: none; margin-right: 15px;">
+    <img src="https://img.shields.io/badge/Instagram-niranjan_majgaonkar-purple?logo=instagram" alt="Instagram" style="width: 50px; height: 50px;">
 </a>
-<a href="https://www.facebook.com/niranjan.majgaonkar.52?mibextid=qi2Omg&rdid=WhBufQNnlu9QbdeH&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FqoJoFBsscAq5QXJe%2F%3Fmibextid%3Dqi2Omg" target="_blank" style="font-size: 24px; text-decoration: none; color: #1877F2;">
-    <img src="https://img.shields.io/badge/Facebook-niranjan.majgaonkar-blue?logo=facebook" alt="Facebook" style="width: 40px; height: 40px; vertical-align: middle;">
+<a href="https://www.facebook.com/niranjan.majgaonkar.52?mibextid=qi2Omg&rdid=WhBufQNnlu9QbdeH&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FqoJoFBsscAq5QXJe%2F%3Fmibextid%3Dqi2Omg" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Facebook-niranjan.majgaonkar-blue?logo=facebook" alt="Facebook" style="width: 50px; height: 50px;">
 </a>
+
 
 
 # 💻 Tech Stack:
