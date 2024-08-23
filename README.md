@@ -1,5 +1,8 @@
-# 💫 About Me:
-👋 Hi, I’m @Niranjanmajgaonkar👀<br>🌱 I’m currently learning Web Development💞️ <br>📫 How to reach me
+# 💫 About Me
+👋 Hi, I’m [@Niranjanmajgaonkar](https://github.com/Niranjanmajgaonkar)  
+🌱 I’m currently learning Web Development and exploring Full Stack Development 💞️  
+🛠️ I work with both front-end and back-end technologies to build complete solutions  
+📫 How to reach me
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/niranjan-majgaonkar-636328268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" style="text-decoration: none; margin-right: 15px;">
