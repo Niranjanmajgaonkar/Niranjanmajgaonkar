@@ -33,14 +33,10 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Coding Thought
+> "Programming isn't about what you know; it's about what you can figure out."  
+> — Chris Pine
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Programming](https://img.shields.io/badge/Programming-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!---
-YashJunagade/YashJunagade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
