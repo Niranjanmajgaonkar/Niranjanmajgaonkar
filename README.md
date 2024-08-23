@@ -1,15 +1,7 @@
-# 💫 About Me
-👋 Hi, I’m [@Niranjanmajgaonkar](https://github.com/Niranjanmajgaonkar)  
-🌱 I’m currently learning Web Development  
-💞️ Passionate about coding and continuous learning
+# 💫 About Me:
+👋 Hi, I’m @Niranjanmajgaonkar👀<br>🌱 I’m currently learning Web Development💞️ <br>📫 How to reach me
 
-## 📫 How to Reach Me
-- **LinkedIn**: [Niranjan Majgaonkar](https://www.linkedin.com/in/niranjan-majgaonkar-636328268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **Instagram**: [@niranjan_majgaonkar](https://www.instagram.com/niranjan_majgaonkar/?utm_source=qr&igsh=MXZnMXAwdGV6YmQ0Zw%3D%3D)
-- **Facebook**: [Niranjan Majgaonkar](https://www.facebook.com/niranjan.majgaonkar.52?mibextid=qi2Omg&rdid=WhBufQNnlu9QbdeH&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FqoJoFBsscAq5QXJe%2F%3Fmibextid%3Dqi2Omg)
-- **GitHub**: [Niranjanmajgaonkar](https://github.com/Niranjanmajgaonkar)
-
-## 🌐 Socials
+## 🌐 Socials:
 <a href="https://www.linkedin.com/in/niranjan-majgaonkar-636328268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" style="text-decoration: none; margin-right: 15px;">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 150px; height: 30px;">
 </a>
@@ -23,7 +15,9 @@
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="width: 150px; height: 30px;">
 </a>
 
-## 💻 Tech Stack
+
+
+# 💻 Tech Stack:
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
