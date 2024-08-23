@@ -3,7 +3,7 @@
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/niranjan-majgaonkar-636328268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" style="text-decoration: none; margin-right: 15px;">
-    <img src="https://img.shields.io/badge/LinkedIn-Niranjan%20Majgaonkar-blue?logo=linkedin" alt="LinkedIn" style="width: 50px; height: 50px;">
+    <img src="https://img.shields.io/badge/LinkedIn-Niranjan%20Majgaonkar-blue?logo=linkedin" alt="LinkedIn" style="width: 200px; height: 50px;">
 </a>
 <a href="https://www.instagram.com/niranjan_majgaonkar/?utm_source=qr&igsh=MXZnMXAwdGV6YmQ0Zw%3D%3D" target="_blank" style="text-decoration: none; margin-right: 15px;">
     <img src="https://img.shields.io/badge/Instagram-niranjan_majgaonkar-purple?logo=instagram" alt="Instagram" style="width: 50px; height: 50px;">
