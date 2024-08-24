@@ -1,4 +1,5 @@
-![Profile Picture](Neutral Creative Professional LinkedIn Article Cover Image (1).png) <!-- Make sure to upload your image and replace this path -->
+![Profile Picture](Neutral_Creative_Professional_LinkedIn_Article_Cover_Image.png) <!-- Make sure the file is renamed without spaces -->
+
 # 💫 About Me
 👋 Hi, I’m [@Niranjanmajgaonkar](https://github.com/Niranjanmajgaonkar)  
 🌱 I’m currently learning Web Development and exploring Full Stack Development 💞️  
