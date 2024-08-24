@@ -1,4 +1,4 @@
-![Profile Picture]([./path-to-your-image.png](https://github.com/Niranjanmajgaonkar/Niranjanmajgaonkar/blob/main/Neutral%20Creative%20Professional%20LinkedIn%20Article%20Cover%20Image%20(1).png)) <!-- Make sure to upload your image and replace this path -->
+![Profile Picture](Neutral Creative Professional LinkedIn Article Cover Image (1).png) <!-- Make sure to upload your image and replace this path -->
 # 💫 About Me
 👋 Hi, I’m [@Niranjanmajgaonkar](https://github.com/Niranjanmajgaonkar)  
 🌱 I’m currently learning Web Development and exploring Full Stack Development 💞️  
