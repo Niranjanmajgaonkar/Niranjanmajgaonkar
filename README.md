@@ -1,4 +1,5 @@
-![Profile Picture](Neutral_Creative_Professional_LinkedIn_Article_Cover_Image.png) <!-- Make sure the file is renamed without spaces -->
+![Profile Picture](https://github.com/Niranjanmajgaonkar/Niranjanmajgaonkar/blob/main/Neutral%20Creative%20Professional%20LinkedIn%20Article%20Cover%20Image%20%281%29.png)
+
 
 # 💫 About Me
 👋 Hi, I’m [@Niranjanmajgaonkar](https://github.com/Niranjanmajgaonkar)  
