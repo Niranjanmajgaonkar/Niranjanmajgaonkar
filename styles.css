@@ -1,0 +1,47 @@
+/* General styles for the header section */
+.header {
+    background-image: url('/mnt/data/Neutral Creative Professional LinkedIn Article Cover Image (1).png');
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+/* Content box style */
+.header-content {
+    background: rgba(255, 255, 255, 0.8); /* Semi-transparent background for the content */
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Profile picture styling */
+.profile-picture {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+/* Header text styling */
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+/* Paragraph text */
+p {
+    font-size: 18px;
+}
+
+/* Social media icons styling */
+.social-icons a {
+    margin-right: 10px;
+}
